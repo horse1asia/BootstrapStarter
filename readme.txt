@@ -1,0 +1,4 @@
+This is just a quick Bootstrap starter kit for kicking starting a front-end web development project.
+
+You can download everything here and set it all up manually:
+http://getbootstrap.com/
