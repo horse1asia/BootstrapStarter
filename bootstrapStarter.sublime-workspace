@@ -39,14 +39,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/F2F4A157-87D7-49D0-AB13-93BA3A5D58B3/index.html",
-			"settings":
-			{
-				"buffer_size": 159,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -84,6 +76,7 @@
 	},
 	"file_history":
 	[
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/F2F4A157-87D7-49D0-AB13-93BA3A5D58B3/index.html",
 		"/Users/petermah/Documents/repos/BootstrapStarter/css/custom.css",
 		"/Users/petermah/Documents/repos/BootstrapStarter/websitePrototype.html",
 		"/Users/petermah/Documents/repos/BootstrapStarter/bootstrapStarter.sublime-project",
@@ -210,8 +203,7 @@
 		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/AF0A366A-BD5E-4E19-80C5-C254EF6654D1/index.htm",
 		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/06BADFAA-664C-41C1-9805-37A28639125B/index.htm",
 		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/AF836127-3D05-4304-BF59-62465C255A29/bootstrap-responsive.css",
-		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/19F48EA1-951F-496E-B103-2BC8FBE12A1B/index.htm",
-		"/Users/petermah/Documents/Website Dev Work/ResponsiveClassAssignment/css/main.css"
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/19F48EA1-951F-496E-B103-2BC8FBE12A1B/index.htm"
 	],
 	"find":
 	{
@@ -374,37 +366,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/F2F4A157-87D7-49D0-AB13-93BA3A5D58B3/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 159,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		},
 		{
