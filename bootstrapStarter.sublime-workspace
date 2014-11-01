@@ -39,6 +39,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testDemo.html",
+			"settings":
+			{
+				"buffer_size": 2587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "readme.txt",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -74,8 +98,23 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/petermah/Documents/repos/BootstrapStarter",
+		"/Users/petermah/Documents/repos/BootstrapStarter/css",
+		"/Users/petermah/Documents/repos/BootstrapStarter/js"
+	],
 	"file_history":
 	[
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/F2F4A157-87D7-49D0-AB13-93BA3A5D58B3/index.html",
+		"/Users/petermah/Documents/repos/BootstrapStarter/css/custom.css",
+		"/Users/petermah/Documents/repos/BootstrapStarter/websitePrototype.html",
+		"/Users/petermah/Documents/repos/BootstrapStarter/bootstrapStarter.sublime-project",
+		"/Users/petermah/Documents/repos/BootstrapStarter/testDemo.html",
+		"/Users/petermah/Documents/repos/BootstrapStarter/index.html",
+		"/Users/petermah/Documents/repos/BootstrapStarter/js/1.11.1.jquery.min.js",
+		"/Users/petermah/Documents/repos/BootstrapStarter/readme.txt",
+		"/Users/petermah/Documents/repos/BootstrapStarter/js/1.11.1jquery.min.js",
 		"/Users/petermah/Documents/repos/git-basics/bootstrap-basic.html",
 		"/Users/petermah/Documents/_My Work/BootstrapStartUp-3.2.0/bootstrap-basic.html",
 		"/Users/petermah/Documents/_My Work/BootstrapStartUp-3.2.0/bootstrap-jumbotron.html",
@@ -194,16 +233,7 @@
 		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/AF0A366A-BD5E-4E19-80C5-C254EF6654D1/index.htm",
 		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/06BADFAA-664C-41C1-9805-37A28639125B/index.htm",
 		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/AF836127-3D05-4304-BF59-62465C255A29/bootstrap-responsive.css",
-		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/19F48EA1-951F-496E-B103-2BC8FBE12A1B/index.htm",
-		"/Users/petermah/Documents/Website Dev Work/ResponsiveClassAssignment/css/main.css",
-		"/Users/petermah/Documents/_My Work/Xpan 2013/UC_sponsor_site2/_do not upload/ChangeBackgroundJQuery/index.html",
-		"/Users/petermah/Documents/Website Dev Work/ResponsiveClassAssignment/ResponsiveClassAssignment.sublime-project",
-		"/Users/petermah/Documents/_My Work/Xpan 2013/UC_sponsor_site2/_do not upload/buildinternet-supersized-2ccedfd/slideshow/fade.html",
-		"/Users/petermah/Documents/_My Work/Xpan 2013/UC_sponsor_site/_do not upload/EdgeFlow Prototype/EdgeReflowProject/assets/Page.css",
-		"/Users/petermah/Documents/_My Work/Xpan 2013/UC_sponsor_site/_do not upload/EdgeFlow Prototype/EdgeReflowProject/assets/boilerplate.css",
-		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/F6277FAC-FF98-4A07-9AFE-E03C8EE80403/login.inc.php",
-		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/9A821FDB-8464-41F5-9017-8171B8965F50/signup.inc.php",
-		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/59C4CBED-24E2-466D-879E-D282F9B21672/signup.inc.php"
+		"/Users/petermah/Library/Caches/Cleanup At Startup/Transmit/19F48EA1-951F-496E-B103-2BC8FBE12A1B/index.htm"
 	],
 	"find":
 	{
@@ -366,8 +396,103 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1456,
+								2172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 79.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "testDemo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2587,
+								2587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 409.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -388,11 +513,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -440,6 +572,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -447,7 +580,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 189.0,
+	"side_bar_width": 275.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
