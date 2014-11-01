@@ -494,6 +494,11 @@
 					"type": "text"
 				}
 			]
+		},
+		{
+			"sheets":
+			[
+			]
 		}
 	],
 	"incremental_find":

@@ -1,3 +1,30 @@
 /*Custom Styles for this website 
 Use this stylesheet to override the bootstrap css
 */
+
+div.top{
+	text-align: right;
+	padding-top: 6px;
+	padding-bottom: 6px;
+
+}
+ul.topLinks{
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+ul.topLinks li{
+	list-style-type: none;
+	display: inline-block;
+}
+.topButton{
+	display: inline-block;
+	margin-right: 5px;
+}
+.topSearch{
+	width: 240px;
+	display: inline-block;
+}
+.topSearch input{
+	display: inline-block;
+}
