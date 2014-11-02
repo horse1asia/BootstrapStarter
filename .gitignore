@@ -1,8 +1,5 @@
 config.codekit
-
-# Apple crap
 .DS_Store
-
-# Sometimes you may wanna ignore the Sublime Text project files
 *.sublime-project
 *.sublime-workspace
+bootstrapStarter.sublime-project
