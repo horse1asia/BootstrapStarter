@@ -30,9 +30,18 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <style>
+        .red{
+            color: red;
+        }
+    </style>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1 class="hello red" id="title">Hello, world!</h1>
+    <p class="red">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec id elit non mi porta gravida at eget metus. Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+    <p class="red">Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
 
 
@@ -45,21 +54,21 @@
 
 
 <!--//////// SCRIPTS AND PLUGINS  /////////////////////////////////--> 
+<!--Load jquery from google if internet connection available--> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!--jQuery Local Development Only, it will check of the version from Google loaded or not.--> 
+<script>window.jQuery || document.write('<script src="js/1.11.1.jquery.min.js"><\/script>')</script>
 
-    <!--jQuery Local Development Only--> 
-    <script src="js/1.11.1.jquery.min.js"></script>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    -->
+<!-- Include all compiled plugins (below), or include individual files as needed. Load this after jQuery -->
+<script src="js/bootstrap.min.js"></script>
 
-    <!-- Include all compiled plugins (below), or include individual files as needed. Load this after jQuery -->
-    <script src="js/bootstrap.min.js"></script>
+<!--Bootstrap CDN JS: Use on deployment-->
+<!-- Latest compiled and minified JavaScript 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+-->
 
-    <!--Bootstrap CDN JS: Use on deployment-->
-    <!-- Latest compiled and minified JavaScript 
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-    -->
+<script src="js/site.js"></script>
 
   </body>
 </html>
