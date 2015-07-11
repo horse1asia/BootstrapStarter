@@ -2,29 +2,130 @@
 Use this stylesheet to override the bootstrap css
 */
 
-div.top{
-	text-align: right;
-	padding-top: 6px;
-	padding-bottom: 6px;
+/*Custom Styles for this website 
+Use this stylesheet to override the bootstrap css
 
-}
-ul.topLinks{
-	display: inline-block;
-	padding-right: 10px;
-	padding-left: 10px;
-}
-ul.topLinks li{
-	list-style-type: none;
-	display: inline-block;
-}
-.topButton{
-	display: inline-block;
-	margin-right: 5px;
-}
-.topSearch{
-	width: 240px;
-	display: inline-block;
-}
-.topSearch input{
-	display: inline-block;
-}
+Changing Lives Landing Page custom CSS - Use this stylesheet to override the Bootstrap CSS
+
+    Table Of Contents
+
+    1. Base styles
+    2. Headings
+    3. Typography
+    4. Anchors
+    5. Navigation
+    6. Form Elements
+    7. General Classes
+    8. Template & Layout
+    9. Print
+    10. Media Queries 
+    11. CSS Diagnostics
+*/
+
+/****************************************************************
+1. Base styles
+****************************************************************/
+
+/****************************************************************
+2. Headings
+****************************************************************/
+
+/****************************************************************
+3. Typography
+****************************************************************/
+
+/****************************************************************
+4. Anchors
+****************************************************************/
+
+/****************************************************************
+5. Navigation
+****************************************************************/
+
+/****************************************************************
+6. Form Elements
+****************************************************************/
+
+/****************************************************************
+7. General Classes
+****************************************************************/
+
+/****************************************************************
+8. Template & Layout
+****************************************************************/
+
+/****************************************************************
+9. Print
+****************************************************************/
+
+/****************************************************************
+10. Media Queries 
+****************************************************************/
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+	/*==========  Mobile First Method  ==========*/
+
+	/* Custom, iPhone Retina */ 
+	@media only screen and (min-width : 320px) {
+		
+	}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (min-width : 480px) {
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (min-width : 768px) {
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (min-width : 992px) {
+
+	}
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (min-width : 1200px) {
+
+	}
+
+
+
+	/*==========  Non-Mobile First Method  ==========*/
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (max-width : 1200px) {
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (max-width : 992px) {
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (max-width : 768px) {
+
+	}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (max-width : 480px) {
+
+	}
+
+	/* Custom, iPhone Retina */ 
+	@media only screen and (max-width : 320px) {
+		
+	}
+
+/****************************************************************
+11. CSS Diagnostics
+****************************************************************/
+
+
+
+
